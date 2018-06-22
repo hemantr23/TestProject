@@ -13,6 +13,7 @@ public class Student {
 	void Display(){
 		System.out.println("Value of a is : "+a);
 		System.out.println("Value of b is : "+b);
+		System.out.println("This is new line ");
 	}
 
 }
